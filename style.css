@@ -1,0 +1,88 @@
+.main-content{
+    background:linear-gradient(rgb(94, 56, 56),rgb(35, 52, 68));
+    color: white;
+    text-align: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    box-shadow: black;
+    border: 3px solid #fff;
+}
+
+.container img{
+    box-shadow: 0px 2px 27px 0px rgba(0,0,0,0.75);
+    border-radius: 10px;
+    
+}
+.content2{
+    margin-top: 20px;
+}
+.head2{
+    text-align: center;
+    color: rgb(202, 199, 199);
+    background: rgb(80, 28, 28);
+    font-size: 24px;
+    padding: 30px;
+    margin-top: 20px;
+    
+}
+.head2 span{
+    color:rgb(255, 156, 8);
+}
+.pera{
+    text-align: center;
+    background: rgb(82, 63, 63);
+    color: wheat;
+    padding: 25px;
+    box-shadow: 0px 2px 27px 0px rgba(0,0,0,0.75);
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.bal{
+    margin-top: 20px;
+    border: 2px solid white;
+    padding: 15px 14px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.content2 h3{
+    margin-left:50px;
+    margin-bottom: 13px;
+    background: rgb(63, 12, 12);
+    float: left;
+    color:wheat;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 20px;
+     margin-top: 20px;
+}
+
+
+.content2 button{
+  background:transparent;  
+  color: rgb(53, 53, 53);
+  border: 1px solid;
+  box-shadow: 0px 2px 21px 0px rgba(0,0,0,0.75);
+}
+.content2 button:hover{
+    background:rgb(24, 109, 167);
+    color: white;
+}
+
+.content2 .row{
+    margin-top:5%;
+}
+
+.pricing{
+    
+    margin-left: 80px;
+    background: rgb(77, 49, 49);
+    float: left;
+    margin-top:20px;
+    color: white;
+    padding:1px 4px;
+    
+}
